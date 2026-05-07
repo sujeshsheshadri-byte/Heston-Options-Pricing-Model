@@ -1,0 +1,11 @@
+# Compiled C++ files
+*.exe
+*.o
+*.out
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
